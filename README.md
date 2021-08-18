@@ -1,4 +1,4 @@
-##Abit Network Bot Service
+##Bot Service
 
 The Bot Service is solely a websocket/stream service that every other infastructure on the network its user connects to and sends messages which is to be delivered to all other connected users on any of those networks
 
